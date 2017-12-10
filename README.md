@@ -1,8 +1,8 @@
-This tutorial is from https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html
-      and the code is forked from https://github.com/omimo/TFDroid.
+This tutorial is from https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html 
+and the code is forked from https://github.com/omimo/TFDroid.
       
 (I just add python codes part. And they have a little difference with tutorial's because I fix some minor errors 
-   for example from open("~.txt", 'r') to open("~.txt",'rb') to read binary file .)
+for example from open("~.txt", 'r') to open("~.txt",'rb') to read binary file .)
 
 
 # TFDroid
