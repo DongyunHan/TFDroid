@@ -1,3 +1,9 @@
+This tutorial is from https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html
+      and the code is forked from https://github.com/omimo/TFDroid.
+      
+(I just add python codes part. And they are little different with the above tutorial's because some codes make error.)
+
+
 # TFDroid
 A simple demo for using Tensorflow models in Android apps
 
